@@ -10,7 +10,7 @@
 <h3 align="center">Uptimy — the reliability platform for modern software teams</h3>
 
 <p align="center">
-  Uptime monitoring, API monitoring, cron job &amp; heartbeat monitoring, status pages, incident management and self-healing — in one place.
+  Uptime monitoring, API monitoring, cron job &amp; heartbeat monitoring, status pages, incident management and alert routing — in one place.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-Most monitoring tells you whether your homepage returns `200`. **Uptimy** watches the parts that actually break: APIs, cron jobs, background workers, webhooks, queues and multi-step workflows. When something fails, it routes the alert to the right person, opens the incident, updates your status page and can run a fix for you.
+Most monitoring tells you whether your homepage returns `200`. **Uptimy** watches the parts that actually break: APIs, cron jobs, background workers, webhooks, queues and multi-step workflows. When something fails, it routes the alert to the right person, opens the incident, and updates your status page.
 
 ## What you can do with Uptimy
 
@@ -37,7 +37,6 @@ Most monitoring tells you whether your homepage returns `200`. **Uptimy** watche
 | 🚨 **[Incident management](https://www.upti.my/incident-management?utm_source=github&utm_medium=org_profile)** | Incidents created from failing monitors, with timelines and ownership |
 | 📣 **[Alert routing & escalation](https://www.upti.my/alert-routing?utm_source=github&utm_medium=org_profile)** | Deduplication, escalation policies, and Slack, Discord, email and webhook notifications |
 | 📊 **[Status pages](https://www.upti.my/status-pages?utm_source=github&utm_medium=org_profile)** | Public or private status pages that update from your monitors |
-| 🛠️ **Self-healing** | Run automated remediation when a check fails, e.g. restart a service |
 
 <p align="center">
   <a href="https://www.upti.my/status-pages?utm_source=github&utm_medium=org_profile&utm_campaign=screenshot">
