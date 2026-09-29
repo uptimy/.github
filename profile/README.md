@@ -47,10 +47,21 @@ Most monitoring tells you whether your homepage returns `200`. **Uptimy** watche
   </a>
 </p>
 
-## Open source
+## Is it down?
+
+Live status for 25 developer services (GitHub, AWS, Cloudflare, Vercel, OpenAI, Stripe and more) from our own checks, independent of each vendor's status page. [Browse the status hub →](https://www.upti.my/status?utm_source=github&utm_medium=org_profile)
+
+[![GitHub status](https://www.upti.my/status/github/badge.svg)](https://www.upti.my/status/github?utm_source=github&utm_medium=org_profile)
+[![Vercel status](https://www.upti.my/status/vercel/badge.svg)](https://www.upti.my/status/vercel?utm_source=github&utm_medium=org_profile)
+[![Cloudflare status](https://www.upti.my/status/cloudflare/badge.svg)](https://www.upti.my/status/cloudflare?utm_source=github&utm_medium=org_profile)
+[![OpenAI status](https://www.upti.my/status/openai/badge.svg)](https://www.upti.my/status/openai?utm_source=github&utm_medium=org_profile)
+[![Stripe status](https://www.upti.my/status/stripe/badge.svg)](https://www.upti.my/status/stripe?utm_source=github&utm_medium=org_profile)
+
+## On GitHub
 
 | Repository | Description |
 |---|---|
+| **[uptimy](https://github.com/uptimy/uptimy)** | Product releases and live status badges. Watch releases to hear about every launch. |
 | **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Command-line tool for managing monitors, alert rules and status pages as code. Works well in CI/CD and with AI agents. |
 | **[feedback](https://github.com/uptimy/feedback)** | Report bugs, request features and ask questions. |
 
@@ -70,7 +81,6 @@ uptimyctl healthchecks list
 - [Vercel cron job monitoring](https://www.upti.my/blog/vercel-cron-job-monitoring?utm_source=github&utm_medium=org_profile)
 - [Render app monitoring](https://www.upti.my/blog/render-app-monitoring?utm_source=github&utm_medium=org_profile)
 - [Uptime Kuma: hosted vs self-hosted](https://www.upti.my/blog/uptime-kuma-hosted-vs-self-hosted?utm_source=github&utm_medium=org_profile)
-- [Is GitHub, Cloudflare or Vercel down? Third-party status hub](https://www.upti.my/status?utm_source=github&utm_medium=org_profile)
 
 ## Get in touch
 
