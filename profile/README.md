@@ -84,4 +84,4 @@ uptimyctl healthchecks list
 
 ## Get in touch
 
-💬 [Feedback & discussions](https://github.com/uptimy/feedback/discussions) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
+🎧 [Discord community](https://www.upti.my/discord) · 💬 [Feedback & discussions](https://github.com/uptimy/feedback/discussions) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
