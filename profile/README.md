@@ -57,23 +57,30 @@ Live status for 25 developer services (GitHub, AWS, Cloudflare, Vercel, OpenAI, 
 [![OpenAI status](https://www.upti.my/status/openai/badge.svg)](https://www.upti.my/status/openai?utm_source=github&utm_medium=org_profile)
 [![Stripe status](https://www.upti.my/status/stripe/badge.svg)](https://www.upti.my/status/stripe?utm_source=github&utm_medium=org_profile)
 
-## On GitHub
+## Open source
 
-| Repository | Description |
+| Repository | |
 |---|---|
-| **[uptimy](https://github.com/uptimy/uptimy)** | Product releases and live status badges. Watch releases to hear about every launch. |
-| **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Command-line tool for managing monitors, alert rules and status pages as code. Works well in CI/CD and with AI agents. |
-| **[feedback](https://github.com/uptimy/feedback)** | Report bugs, request features and ask questions. |
+| **[agent](https://github.com/uptimy/agent)** | Self-hosted uptime monitoring in one binary: websites, APIs, databases, cron jobs and Kubernetes, with a status page and alerts. An Uptime Kuma alternative that imports its monitors. |
+| **[uptimyctl](https://github.com/uptimy/uptimyctl)** | Uptimy from your terminal: monitors, cron jobs, incidents, status pages, alerts and reports, or a whole workspace as one file your coding agent edits. |
+| **[mcp](https://github.com/uptimy/mcp)** | Uptimy in your AI assistant: ask what's down, run incidents and set up monitoring from Claude, ChatGPT or Cursor. |
 
-Get started with the CLI:
+All three are Apache-2.0 and welcome contributions: each has a contributing guide, and questions go to [Discord](https://www.upti.my/discord).
 
 ```bash
 go install github.com/uptimy/uptimyctl@latest
 uptimyctl auth login
-uptimyctl healthchecks list
+uptimyctl export -f uptimy.yaml   # your workspace as a file
 ```
 
-📖 [CLI docs](https://www.upti.my/docs/cli?utm_source=github&utm_medium=org_profile) · 🤖 [Using uptimyctl with AI agents](https://www.upti.my/docs/guides/ai-monitoring-uptimyctl?utm_source=github&utm_medium=org_profile)
+📖 [CLI docs](https://www.upti.my/docs/cli?utm_source=github&utm_medium=org_profile) · 🤖 [Connect an AI assistant](https://www.upti.my/docs/mcp?utm_source=github&utm_medium=org_profile) · 🏠 [Self-host the agent](https://github.com/uptimy/agent#install)
+
+## More on GitHub
+
+| Repository | |
+|---|---|
+| **[uptimy](https://github.com/uptimy/uptimy)** | Product releases and live status badges. Watch releases to hear about every launch. |
+| **[feedback](https://github.com/uptimy/feedback)** | Bug reports and feature requests for Uptimy. |
 
 ## Guides
 
@@ -84,4 +91,4 @@ uptimyctl healthchecks list
 
 ## Get in touch
 
-🎧 [Discord community](https://www.upti.my/discord) · 💬 [Feedback & discussions](https://github.com/uptimy/feedback/discussions) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
+🎧 [Discord community](https://www.upti.my/discord) · 🐛 [Bugs & feature requests](https://github.com/uptimy/feedback) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
