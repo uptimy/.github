@@ -49,7 +49,7 @@ Most monitoring tells you whether your homepage returns `200`. **Uptimy** watche
 
 ## Is it down?
 
-Live status for 25 developer services (GitHub, AWS, Cloudflare, Vercel, OpenAI, Stripe and more) from our own checks, independent of each vendor's status page. [Browse the status hub →](https://www.upti.my/status?utm_source=github&utm_medium=org_profile)
+Live status for 25 developer services (GitHub, AWS, Cloudflare, Vercel, OpenAI, Stripe and more) from our own checks, independent of each vendor's status page. [Browse the status hub →](https://www.upti.my/status?utm_source=github&utm_medium=org_profile) Follow [@downtimy](https://x.com/downtimy) on X to hear when one goes down and recovers.
 
 [![GitHub status](https://www.upti.my/status/github/badge.svg)](https://www.upti.my/status/github?utm_source=github&utm_medium=org_profile)
 [![Vercel status](https://www.upti.my/status/vercel/badge.svg)](https://www.upti.my/status/vercel?utm_source=github&utm_medium=org_profile)
@@ -91,4 +91,4 @@ uptimyctl export -f uptimy.yaml   # your workspace as a file
 
 ## Get in touch
 
-🎧 [Discord community](https://www.upti.my/discord) · 🐛 [Bugs & feature requests](https://github.com/uptimy/feedback) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
+🎧 [Discord community](https://www.upti.my/discord) · 𝕏 [@downtimy](https://x.com/downtimy) · 🐛 [Bugs & feature requests](https://github.com/uptimy/feedback) · ✉️ [support@upti.my](mailto:support@upti.my) · 🆓 [Start free, no credit card needed](https://app.upti.my/?utm_source=github&utm_medium=org_profile&utm_campaign=footer)
